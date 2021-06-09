@@ -30,6 +30,10 @@ dependencies:
   cupertino_icons: ^1.0.2
   #data_format: ^2.0.2
   fluttertoast: ^8.0.7
+  #十六进制颜色码
+  hexcolor: ^2.0.3
+  #表格
+  syncfusion_flutter_datagrid: ^19.1.66-beta
   
 
 dev_dependencies:
